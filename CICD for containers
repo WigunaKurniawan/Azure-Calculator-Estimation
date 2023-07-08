@@ -1,0 +1,12 @@
+# CI/CD for Containers in Microsoft Azure
+
+Containers make it very easy for you to continuously build and deploy your applications. By orchestrating deployment of those containers using Kubernetes in Azure Kubernetes Service (AKS), you can achieve replicable, manageable clusters of containers.
+
+By setting up a continuous build to produce your container images and orchestration, Azure DevOps increases the speed and reliability of your deployment.
+
+
+
+
+
+
+
